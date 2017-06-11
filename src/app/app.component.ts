@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'welcome angular2';
-  data="raja";
+  data=["raja","ravi","welcome","angular"];
 }
